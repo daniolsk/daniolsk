@@ -2,6 +2,8 @@
 
 **`Self taught developer and designer`**
 
+Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Cracow University of Technology</a>
+
 ---
 
 <p>
