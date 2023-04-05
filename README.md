@@ -2,7 +2,7 @@
 
 **`Self taught developer and designer`**
 
-Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Cracow University of Technology</a>
+Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Cracow University of Technology</a>.
 
 ---
 
@@ -27,4 +27,13 @@ Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Crac
 <p>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white">
+</p>
+
+---
+
+<p align="center">
+<h3>Check out my latest project:</h3>
+<a href="https://muscler.vercel.app/">
+<img style="widht: 100px" src="https://muscler.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F125shots_so.e02ab8e8.png&w=1080&q=100">
+</a>
 </p>
