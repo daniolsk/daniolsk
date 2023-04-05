@@ -33,6 +33,11 @@ Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Crac
 
 <h2 align="center">Check out my latest project:</h2>
 
-<a href="https://muscler.vercel.app/">
-<img style="widht: 100px" src="https://muscler.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F21shots_so.bb90544f.png&w=1200&q=100">
-</a>
+<p float="left" align="middle">
+    <a href="https://muscler.vercel.app/">
+        <img style="widht: 100px" src="https://muscler.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F21shots_so.bb90544f.png&w=1200&q=100" width="350">
+    </a>
+     <a href="https://muscler.vercel.app/">
+        <img style="widht: 100px" src="https://muscler.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F125shots_so.e02ab8e8.png&w=1080&q=100" width="350">
+    </a>
+</p>
