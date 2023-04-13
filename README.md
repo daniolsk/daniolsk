@@ -6,6 +6,8 @@ Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Crac
 
 ---
 
+## I have worked with:
+
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
