@@ -1,4 +1,4 @@
-# ✨ Hi I'm Daniel
+# 🚀 Hi I'm Daniel
 
 **`Self taught developer and designer`**
 
