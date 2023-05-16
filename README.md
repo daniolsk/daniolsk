@@ -57,7 +57,7 @@ Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Crac
         <img style="widht: 100px" src="https://guessthesong.vercel.app/preview/1.png" width="275">
     </a>
      <a href="https://guessthesong.vercel.app">
-        <img style="widht: 100px" src="https://guessthesong.vercel.app/preview/2.png" width="75">
+        <img style="widht: 100px" src="https://guessthesong.vercel.app/preview/2.png" width="275">
     </a>
     <a href="https://guessthesong.vercel.app">
         <img style="widht: 100px" src="https://guessthesong.vercel.app/preview/3.png" width="275">
