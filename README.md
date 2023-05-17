@@ -33,7 +33,7 @@ Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Crac
 
 ---
 
-<h2 align="center">Check out my latest project:</h2>
+<h2 align="center">Check out my latest projects:</h2>
 
 ### MUSCLER - gym tracking app
 
