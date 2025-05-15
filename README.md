@@ -1,6 +1,6 @@
 # 🚀 Hi I'm Daniel
 
-**`Fullstack developer`**
+**`Software Engineer`**
 
 Currently studying Computer Science at the <a href="https://www.pk.edu.pl/">Cracow University of Technology</a>.
 
